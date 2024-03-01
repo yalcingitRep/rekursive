@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\bin\Debug\net8.0\rekursive.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\bin\Debug\net8.0\rekursive.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\bin\Debug\net8.0\rekursive.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\bin\Debug\net8.0\rekursive.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\bin\Debug\net8.0\rekursive.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\refint\rekursive.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\rekursive.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\rekursive\obj\Debug\net8.0\ref\rekursive.dll

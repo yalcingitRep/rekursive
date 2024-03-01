@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build recursive",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\rekursive\\rekursive.csproj",
+            "task": "build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\rekursive\\rekursive.csproj",
+            "type": "dotnet",
+            "problemMatcher": [],
+            "group":{
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
